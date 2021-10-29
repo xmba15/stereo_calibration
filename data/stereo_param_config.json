@@ -1,0 +1,10 @@
+{
+    "left_image_path" : "./data/calibration_data/left",
+    "right_image_path" : "./data/calibration_data/right",
+    "left_calib_params_path": "./data/calibration_data/left_calib_params.yml",
+    "right_calib_params_path": "./data/calibration_data/right_calib_params.yml",
+    "image_list_file": "./data/calibration_data/image_list.txt",
+    "num_row": 6,
+    "num_col": 7,
+    "square_size": 0.06
+}
